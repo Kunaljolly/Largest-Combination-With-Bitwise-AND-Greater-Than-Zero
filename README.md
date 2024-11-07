@@ -32,4 +32,4 @@ The size of the combination is 2, so we return 2.
 Constraints:
 
 1 <= candidates.length <= 10^5
-1 <= candidates[i] <= 107
+1 <= candidates[i] <= 10^7
